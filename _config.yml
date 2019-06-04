@@ -1,5 +1,5 @@
 # Site
-title:              SadoCode
+title:              sadocode
 bio:                '내일 더 잘 하고 싶어요'
 description:        "공부한 것들 정리해서 올리는 블로그입니다."
 reading_time:       true
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/city.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://sadocode92.github.io
+url:                https://sadocode92.github.io/Moon
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   SadoCode
+disqus_shortname:   sadocode
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -40,7 +40,7 @@ disqus_shortname:   SadoCode
 email:               sadocode92@gmail.com
 #twitter:            username
 #facebook:           username
-github-url:         sadocode92
+github-url:         sadocode
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
