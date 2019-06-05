@@ -14,5 +14,5 @@ comments: false
 * Database
 * Deep Learning
 * Frontend
-* Problem Solving
 * Git
+* Problem Solving
