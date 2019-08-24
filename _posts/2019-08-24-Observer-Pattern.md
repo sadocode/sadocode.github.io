@@ -1,6 +1,6 @@
 ---
 layout:	post
-title: 	"Observer Design Pattern"
+title:	"Observer Design Pattern"
 date:	2019-08-20
 excerpt:	"Observer Design Pattern in Java”
 tag:
