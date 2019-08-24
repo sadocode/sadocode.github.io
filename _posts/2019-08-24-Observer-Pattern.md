@@ -1,13 +1,13 @@
 ---
-layout:	post
-title:	"Observer Design Pattern"
-date:	2019-08-20
-excerpt:	"Observer Design Pattern in Java”
+layout: post
+title: "Observer Design Pattern"
+date: 2019-08-20
+excerpt: "Observer Design Pattern in Java”
 tag:
 - Java
 - Observer
 - Design Pattern
-comments:	true
+comments: true
 ---
 
 ## 1. 디자인 패턴
