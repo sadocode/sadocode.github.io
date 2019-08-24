@@ -28,13 +28,9 @@ comments:	true
 * 아래의 코드는 App클래스에서 System.in으로 입력받은 값을 Memo 클래스의 message에 저장하게 되고, 변경되는 message의 값들을 GUI, Notepad클래스로 통보해준다. 데이터의 변경을 통보받은 GUI에서는 JFrame으로 출력해주고, Notepad에서는 txt파일로 저장해준다.
 <br>
 ## 4. UML
-<figure>
-<a href=“/image/2019-08-24/Subject.png”><img src=“/image/2019-08-24/Subject.png”>
-</figure>
+![](/images/observer/Subject.png)
 <br>
-<figure>
-<a href=“/image/2019-08-24/Observer.png”><img src=“/image/2019-08-24/Observer.png”>
-</figure>
+![](/images/observer/Observer.png)
 <br>
 ## 5. 코드
 ### 5.1 Subject 인터페이스
@@ -266,11 +262,7 @@ public class App {
 <br>
 ## 6. 구현 
 * 터미널에 입력한 값이 각각 Java Application 창으로 뜨는 것과 memo.txt 파일로 저장되는 것을 확인할 수 있다.
-<figure>
-<a href=“/image/2019-08-24/ex1.png”><img src=“/image/2019-08-24/ex1.png”>
-</figure>
+![](/images/observer/ex1.png)
 <br>
-<figure>
-<a href=“/image/2019-08-24/ex2.png”><img src=“/image/2019-08-24/ex2.png”>
-</figure>
+![](/images/observer/ex2.png)
 
