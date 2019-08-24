@@ -1,8 +1,8 @@
 ---
 layout:	post
-title: 	“Observer Design Pattern”
+title: 	Observer Design Pattern
 date:	2019-08-20
-excerpt:	“Observer Design Pattern in Java”
+excerpt:	"Observer Design Pattern in Java”
 tag:
 - Java
 - Observer
@@ -32,8 +32,14 @@ Memo의 데이터 변경을 GUI, Notepad 클래스가 통보를 받는데,  Memo
 <br>
 
 ## 4. UML
+
+### 4.1 Subject 인터페이스
+
 ![](/images/observer/Subject.png)
 <br>
+
+### 4.2 Observer 인터페이스
+
 ![](/images/observer/Observer.png)
 <br>
 
