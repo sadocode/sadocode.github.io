@@ -30,7 +30,7 @@ disqus_shortname:   sadocode-github-io
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
   analytics:        UA-146771909-1
   #verify:
