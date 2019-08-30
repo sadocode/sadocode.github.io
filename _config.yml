@@ -32,7 +32,7 @@ disqus_shortname:   sadocode-github-io
 # if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-146771909-1
   #verify:
   #ad-client:
   #ad-slot:
