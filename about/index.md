@@ -11,8 +11,10 @@ comments: false
 
 ## Interest
 * Algorithm
+* Backend
 * Database
 * Deep Learning
 * Frontend
 * Git
+* Java
 * Problem Solving
