@@ -11,16 +11,23 @@ comments:	true
 ---
 
 ## 1. 내용
+
 * YouTube Iframe API를 이용하면, 원하는 유튜브 영상을 웹페이지에 띄울 수 있다.
 * 따로 키 인증을 받거나 OAuth 2.0을 쓰지 않고, javascript코드로 원하는 영상을 띄울 수 있어서 편리하다.
+
 <br>
+
 ## 2. 사용 조건
+
  * 유저는 HTML5를 지원하는 브라우저를 이용해야한다. -> [지원 불가능한 브라우저 항목](https://stackoverflow.com/questions/1834077/which-browsers-support-script-async-async/1834129#1834129)
  * Internet Explorer 7은 해당 기능을 지원하지 않는다.
  * 동영상 플레이어의 크기는 200 X 200 px 이상이어야 한다.
  * 16:9 플레이어의 크기는 480 X 270 px 이상으로 사용하는 것이 좋다.
+
 <br>
+
 ## 3. 코드
+
 ~~~ html
 <!DOCTYPE html>
 <html>
@@ -70,8 +77,13 @@ comments:	true
   </body>
 </html>
 ~~~
+
 <br>
+
 ## 4. 코드 설명
+
 <br>
+
 ## 5. 결과
-<iframe width=“640” height=“360” src=“// [www.youtube.com/embed/M7lc1UVf-VE](http://www.youtube.com/embed/M7lc1UVf-VE) “ frameborder=“0”> </iframe>
+
+<iframe width=“640” height=“360” src=“//www.youtube.com/embed/M7lc1UVf-VE“ frameborder=“0”> </iframe>
