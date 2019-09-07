@@ -86,28 +86,5 @@ comments:	true
 
 ## 5. 결과
 
-<div id=“player”></div>
-    <script src=“https://www.youtube.com/iframe_api”></script>
-    <script>
-      var player;
-      function onYouTubeIframeAPIReady() {
-        player = new YT.Player(‘player’, {
-          height: ‘360’,
-          width: ‘640’,
-          videoId: ‘M7lc1UVf-VE’,
-          events: {
-            ‘onReady’: onPlayerReady,
-            ‘onStateChange’: onPlayerStateChange
-          }
-        });
-      }
-
-      function onPlayerReady(event) {
-        event.target.playVideo();
-      }
-
-      function stopVideo() {
-        player.stopVideo();
-      }
-</script>
+<iframe width="640" height="360" src="//www.youtube.com/embed/M7lc1UVf-VE" frameborder="0"> </iframe>
 
