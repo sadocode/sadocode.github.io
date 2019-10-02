@@ -79,7 +79,7 @@ Sitemap: https://sadocode.github.io/sitemap.xml
 * **lastmod** : 최종 수정 시각
 * **changefreq** : 문서 update 주기. 값으로는 always, hourly, daily, weekly, monthly, yearly, never가 올 수 있다. 검색엔진에 제공하는 보편적인 정보로 검색 엔진(구글)에서 크롤링하는 정확한 빈도와는 관련이 없을 수도 있다고 한다.
 * **priority** : 값으로는 0.0 ~ 1.0이 올 수 있다. 검색엔진이 사이트 내에서 크롤링할 페이지의 우선순위를 정할 때에 고려하는 값이다. 페이지 별로 값을 다르게 줘서 중요도가 높은 페이지가 검색엔진에 더 노출될 확률을 올릴 수 있다. (모든 페이지를 1.0으로하는 것은 모든 페이지를 0.1로 한 것과 똑같다.)
-
+* [sitemap 참고 페이지](https://www.sitemaps.org/ko/protocol.html)
 <br>
 
 ## 4. Google Search Console
