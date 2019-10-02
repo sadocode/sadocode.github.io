@@ -83,8 +83,14 @@ Sitemap: https://sadocode.github.io/sitemap.xml
 <br>
 
 ## 4. Google Search Console
-robots.txt, sitemap.xml을 등록한다고 구글에 검색되는 것은 아니다. 구글에 검색되려면 구글 서치 콘솔에 내 사이트를 등록해줘야 한다. 구글 서치 콘솔에서 시키는대로 사이트 인증을 하고, 본인 사이트의 sitemap.xml의 URL을 등록하면 된다. 기억하기론 하루 정도 지나고 나니까 구글봇이 사이트를 크롤링하기 시작했던 것 같다.
+* robots.txt, sitemap.xml을 등록한다고 구글에 검색되는 것은 아니다. 구글에 검색되려면 구글 서치 콘솔에 내 사이트를 등록해줘야 한다. 구글 서치 콘솔에서 시키는대로 사이트 인증을 하고, 본인 사이트의 sitemap.xml의 URL을 등록하면 된다. 기억하기론 하루 정도 지나고 나니까 구글봇이 사이트를 크롤링하기 시작했던 것 같다.
+<br>
 
+![](/images/seo/crawling.png)
+
+<br>
+* 위의 이미지는 robots.txt, sitemap.xml을 설정하고 Google Search Console에 사이트를 등록하고 난 뒤에 구글봇이 이 사이트를 크롤링한 횟수를 나타낸다. 서치 콘솔에 등록하기 전에는 0이었던 크롤링 횟수가 변화했음을 알 수 있다.
+* **즉, 무조건 [Google Search Console](https://search.google.com/search-console/about)에 등록해야지만 구글에 내 사이트가 검색가능하다!!**
 <br>
 
 ## 5. 추가 내용
