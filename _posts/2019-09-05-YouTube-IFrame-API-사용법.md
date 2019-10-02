@@ -1,8 +1,9 @@
 ---
 layout:	post
-title:  “YouTube IFrame API 사용법”
+title: “YouTube IFrame API 사용법”
 date: 2019-09-05
-excerpt:	“How-to-use-YouTube-IFrame-API”
+excerpt: “How-to-use-YouTube-IFrame-API”
+feature: /images/youtube/youtube.jpg
 tag:
 - YouTube
 - API

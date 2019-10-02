@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  “Google 검색엔진 최적화(SEO)”
+title: “Google 검색엔진 최적화(SEO)”
 date: 2019-10-02
-excerpt:	“How-to-imporve-Google-SEO-ranking”
+excerpt: “How-to-imporve-Google-SEO-ranking”
 feature: /images/seo/network.jpg
 tag:
 - SEO

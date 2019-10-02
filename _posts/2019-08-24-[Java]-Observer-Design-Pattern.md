@@ -3,6 +3,7 @@ layout: post
 title: "Observer Design Pattern"
 date: 2019-08-24
 excerpt: "Observer Pattern in Java"
+feature: /images/observer/designPattern.jpg
 tag:
 - Java
 - Observer

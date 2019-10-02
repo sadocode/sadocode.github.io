@@ -3,6 +3,7 @@ layout: post
 title: "Java properties 사용 예제"
 date: 2019-06-06
 excerpt: "How to use properties files in Java"
+feature: /images/properties/properties.jpg
 tag:
 - Java
 - properties
