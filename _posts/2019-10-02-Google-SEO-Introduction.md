@@ -101,8 +101,6 @@ robots.txt, sitemap.xml을 등록한다고 구글에 검색되는 것은 아니�
 
 그 밖에 중요한 요소는 다음과 같다고 한다.
 
-<br>
-
 1. 모바일 친화적인 웹페이지
 2. 보안 프로토콜(HTTPS)
 3. robots.txt, sitemap.xml
