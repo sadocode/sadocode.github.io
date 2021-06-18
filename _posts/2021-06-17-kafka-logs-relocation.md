@@ -2,7 +2,7 @@
 layout:	post
 title:	"kafka log.dirs 변경"
 date:	2021-06-17
-feature:	/images/git/006_kafka_logs_relocation
+feature:	/images/git/006_kafka_logs_relocation/kafka-logo.jpg
 excerpt:	"How to relocation log.dirs in kafka"
 tag:
 - kafka
