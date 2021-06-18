@@ -10,8 +10,7 @@ comments: true
 ---
 
 
-
-> 최근에 회사에서 카프카서버를 구축했어요. 몇가지 계속 자잘한 에러가 발생하고 있어서, 하나씩 생각날때마다 적어두려고 해요.
+> 최근에 회사에서 카프카서버를 구축했어요. 몇가지 계속 자잘한 에러가 발생하고 있어서, 하나씩 생각날때마다 적어두려고 합니다.
 
 <br>
 
@@ -34,7 +33,7 @@ systemctl stop kafka-server.service	// systemctl 등록했을 경우
 ### step 2. 설정 변경
 
 ~~~
-cd kafka/config/server.properties
+vi kafka/config/server.properties
 
 #log.dirs=/data		// 기존의 log.dirs 주석 또는 삭제
 log.dirs=/root/data/kafka 	// logs.dir을 원하는 path로 변경.
@@ -45,7 +44,7 @@ log.dirs=/root/data/kafka 	// logs.dir을 원하는 path로 변경.
 ### step 3. dir 변경
 
 ~~~
-mv /data /root/data/kafka	// /data에 저장되어있던 카프카데이터 폴더를 변경
+mv /data /root/data/kafka	// /data에 저장되어있던 카프카 데이터를 /root/data/kafka로 변경
 ~~~
 
 <br>
