@@ -94,5 +94,7 @@ private Map<String, String> getPropertyMap()
 	{
 		e.printStackTrace(System.out);
 	}
+
+	return resultMap;
 }
 ~~~
