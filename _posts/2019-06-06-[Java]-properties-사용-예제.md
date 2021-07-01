@@ -65,3 +65,34 @@ WEBROOT=C:/webserver
 HOME=index.html
 ~~~
 
+<br>
+
+## key, value
+key, value를 map에 한 번에 저장할 수도 있다.
+
+~~~ java
+private Map<String, String> getPropertyMap()
+{
+	Map<String, String> resultMap = new HashMap<String, String>();
+
+	try(FileInputStream fis = new FileInputStream("properties file path"))
+	{
+		Properties p = new Properties();
+		p.load(fis);
+			
+		String key = null;
+		String value = null;
+			
+		for(Object o : p.keySet())
+		{
+			key = (String)o;
+			value = p.getProperty(key);
+			resultMap.put(key, value);
+		}
+	}
+	catch(Exception e)
+	{
+		e.printStackTrace(System.out);
+	}
+}
+~~~
